@@ -74,9 +74,9 @@ CFD • FSI • FEM • Composite Materials • UAV Design • Structural Analys
 
 ## Team
 
-Kailash Kumar R
-Pavithra R
-Prateeksha N
+Kailash Kumar R |
+Pavithra R |
+Prateeksha N |
 Rithika R
 
 Bachelor of Engineering – Aeronautical Engineering
